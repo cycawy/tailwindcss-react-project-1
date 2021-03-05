@@ -38,9 +38,9 @@ function App() {
       <Navbar toggle={toggle}/>
       <Dropdown isOpen={isOpen} toggle={toggle}/>
       <Switch>
-        <Route path='/' exact component={Home} />
-        <Route path='/about' component={About} />
-        <Route path='/menu' component={Menu} />
+        <Route path="/" exact component={Home} />
+        <Route path="/about" component={About} />
+        <Route path="/menu" component={Menu} />
       </Switch>
       <Footer />
     </div>
