@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tailwindcss-react-project-1/static/css/main.670e54a8.chunk.css",
-    "main.js": "/tailwindcss-react-project-1/static/js/main.d3d8785e.chunk.js",
-    "main.js.map": "/tailwindcss-react-project-1/static/js/main.d3d8785e.chunk.js.map",
-    "runtime-main.js": "/tailwindcss-react-project-1/static/js/runtime-main.b70c8c89.js",
-    "runtime-main.js.map": "/tailwindcss-react-project-1/static/js/runtime-main.b70c8c89.js.map",
-    "static/js/2.25247bea.chunk.js": "/tailwindcss-react-project-1/static/js/2.25247bea.chunk.js",
-    "static/js/2.25247bea.chunk.js.map": "/tailwindcss-react-project-1/static/js/2.25247bea.chunk.js.map",
-    "static/js/3.c2f5a957.chunk.js": "/tailwindcss-react-project-1/static/js/3.c2f5a957.chunk.js",
-    "static/js/3.c2f5a957.chunk.js.map": "/tailwindcss-react-project-1/static/js/3.c2f5a957.chunk.js.map",
-    "index.html": "/tailwindcss-react-project-1/index.html",
-    "static/css/main.670e54a8.chunk.css.map": "/tailwindcss-react-project-1/static/css/main.670e54a8.chunk.css.map",
-    "static/js/2.25247bea.chunk.js.LICENSE.txt": "/tailwindcss-react-project-1/static/js/2.25247bea.chunk.js.LICENSE.txt",
-    "static/media/img-1.01c297d6.jpeg": "/tailwindcss-react-project-1/static/media/img-1.01c297d6.jpeg",
-    "static/media/img-2.bcef4022.jpeg": "/tailwindcss-react-project-1/static/media/img-2.bcef4022.jpeg"
+    "main.css": "./static/css/main.670e54a8.chunk.css",
+    "main.js": "./static/js/main.f64e26df.chunk.js",
+    "main.js.map": "./static/js/main.f64e26df.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.0a89ffba.js",
+    "runtime-main.js.map": "./static/js/runtime-main.0a89ffba.js.map",
+    "static/js/2.f2d69aab.chunk.js": "./static/js/2.f2d69aab.chunk.js",
+    "static/js/2.f2d69aab.chunk.js.map": "./static/js/2.f2d69aab.chunk.js.map",
+    "static/js/3.c2f5a957.chunk.js": "./static/js/3.c2f5a957.chunk.js",
+    "static/js/3.c2f5a957.chunk.js.map": "./static/js/3.c2f5a957.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.670e54a8.chunk.css.map": "./static/css/main.670e54a8.chunk.css.map",
+    "static/js/2.f2d69aab.chunk.js.LICENSE.txt": "./static/js/2.f2d69aab.chunk.js.LICENSE.txt",
+    "static/media/img-1.01c297d6.jpeg": "./static/media/img-1.01c297d6.jpeg",
+    "static/media/img-2.bcef4022.jpeg": "./static/media/img-2.bcef4022.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b70c8c89.js",
-    "static/js/2.25247bea.chunk.js",
+    "static/js/runtime-main.0a89ffba.js",
+    "static/js/2.f2d69aab.chunk.js",
     "static/css/main.670e54a8.chunk.css",
-    "static/js/main.d3d8785e.chunk.js"
+    "static/js/main.f64e26df.chunk.js"
   ]
 }
